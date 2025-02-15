@@ -30,4 +30,4 @@ Brawn Flash 1o is the next step in the evolution of AI technology. By utilizing 
 ### Get Started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Neurologic/BrawnANS.git
+   git clone https://github.com/zeequicko/brawnans.git
